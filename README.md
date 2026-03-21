@@ -37,8 +37,7 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=backsitte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backsitte&layout=compact&theme=tokyonight&hide_border=true"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=backsitte&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
