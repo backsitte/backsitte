@@ -37,8 +37,8 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=backsitte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backsitte&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img height="160em" src="https://github-readme-stats-5jm17dueq-dinis-projects-59221712.vercel.app/api?username=backsitte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="160em" src="https://github-readme-stats-5jm17dueq-dinis-projects-59221712.vercel.app/api/top-langs/?username=backsitte&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
 
