@@ -40,17 +40,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=backsitte&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=backsitte&theme=tokyonight" />
 </p>
----
-
-### contribution snake
-
-<div align="center">
-
-![snake gif](https://github.com/backsitte/backsitte/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <div align="center">
 
