@@ -35,11 +35,11 @@
 
 ### github stats
 
-<div align="center">
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=backsitte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=backsitte&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-</div>
-
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hanshulll&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hanshulll&theme=tokyonight" />
+</p>
 ---
 
 ### contribution snake
