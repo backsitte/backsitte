@@ -10,7 +10,7 @@
 
 3rd year Computer Science student at [NOVA FCT](https://www.fct.unl.pt/en), interested in **software development** and **game design**.
 
-- currently learning: systems programming & game engines
+- currently learning: systems programming & AI tools
 - always up for: interesting projects and collabs
 
 ---
