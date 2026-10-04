@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF3333&center=true&vCenter=true&width=435&lines=hey%2C+I'm+backsitte;CS+student+%40+NOVA+FCT;building+better+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF3333&center=true&vCenter=true&width=435&lines=hey%2C+I'm+backsitte;CS+student+%40+NOVA+FCT;building+be[...]
 
 </div>
 
@@ -39,7 +39,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-stats-extended-frontend-alpha-sandy.vercel.app/api?username=backsitte&show_icons=true&bg_color=0d1117&title_color=FF3333&icon_color=FF3333&text_color=ffffff&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=backsitte&background=0d1117&stroke=FF3333&ring=FF3333&fire=FF3333&currStreakNum=ffffff&currStreakLabel=FF3333&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=backsitte&background=0d1117&stroke=FF3333&ring=FF3333&fire=FF3333&currStreakNum=ffffff&currStreakLabel=FF3333&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </p>
 
 <div align="center">
